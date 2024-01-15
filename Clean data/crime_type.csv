@@ -1,0 +1,385 @@
+,Borough,Crime Type,Count
+0,Barking and Dagenham,Arson and Criminal Damage,1579
+1,Barking and Dagenham,Burglary,1631
+2,Barking and Dagenham,Drug Offences,1606
+3,Barking and Dagenham,Miscellaneous Crimes Against Society,370
+4,Barking and Dagenham,Other Accepted Crime,3148
+5,Barking and Dagenham,Possession of Weapons,266
+6,Barking and Dagenham,Public Order Offences,1285
+7,Barking and Dagenham,Robbery,1139
+8,Barking and Dagenham,Sexual Offences,711
+9,Barking and Dagenham,Theft,3791
+10,Barking and Dagenham,Vehicle Offences,2793
+11,Barking and Dagenham,Violence Against the Person,6881
+12,Barnet,Arson and Criminal Damage,2232
+13,Barnet,Burglary,3707
+14,Barnet,Drug Offences,1281
+15,Barnet,Miscellaneous Crimes Against Society,454
+16,Barnet,Other Accepted Crime,3305
+17,Barnet,Possession of Weapons,274
+18,Barnet,Public Order Offences,1925
+19,Barnet,Robbery,1346
+20,Barnet,Sexual Offences,597
+21,Barnet,Theft,6967
+22,Barnet,Vehicle Offences,6683
+23,Barnet,Violence Against the Person,7991
+24,Bexley,Arson and Criminal Damage,1707
+25,Bexley,Burglary,1821
+26,Bexley,Drug Offences,990
+27,Bexley,Miscellaneous Crimes Against Society,295
+28,Bexley,Other Accepted Crime,2049
+29,Bexley,Possession of Weapons,210
+30,Bexley,Public Order Offences,1248
+31,Bexley,Robbery,403
+32,Bexley,Sexual Offences,404
+33,Bexley,Theft,3035
+34,Bexley,Vehicle Offences,3467
+35,Bexley,Violence Against the Person,5728
+36,Brent,Arson and Criminal Damage,2273
+37,Brent,Burglary,2796
+38,Brent,Drug Offences,2558
+39,Brent,Miscellaneous Crimes Against Society,443
+40,Brent,Other Accepted Crime,3177
+41,Brent,Possession of Weapons,450
+42,Brent,Public Order Offences,2055
+43,Brent,Robbery,1479
+44,Brent,Sexual Offences,689
+45,Brent,Theft,5953
+46,Brent,Vehicle Offences,4759
+47,Brent,Violence Against the Person,9579
+48,Bromley,Arson and Criminal Damage,2138
+49,Bromley,Burglary,2857
+50,Bromley,Drug Offences,1528
+51,Bromley,Miscellaneous Crimes Against Society,341
+52,Bromley,Other Accepted Crime,2813
+53,Bromley,Possession of Weapons,255
+54,Bromley,Public Order Offences,1744
+55,Bromley,Robbery,550
+56,Bromley,Sexual Offences,609
+57,Bromley,Theft,5689
+58,Bromley,Vehicle Offences,4325
+59,Bromley,Violence Against the Person,7116
+60,Camden,Arson and Criminal Damage,1765
+61,Camden,Burglary,3617
+62,Camden,Drug Offences,2593
+63,Camden,Miscellaneous Crimes Against Society,380
+64,Camden,Other Accepted Crime,2344
+65,Camden,Possession of Weapons,381
+66,Camden,Public Order Offences,2237
+67,Camden,Robbery,2002
+68,Camden,Sexual Offences,727
+69,Camden,Theft,17542
+70,Camden,Vehicle Offences,3892
+71,Camden,Violence Against the Person,7346
+72,Croydon,Arson and Criminal Damage,2618
+73,Croydon,Burglary,2956
+74,Croydon,Drug Offences,3273
+75,Croydon,Miscellaneous Crimes Against Society,566
+76,Croydon,Other Accepted Crime,4904
+77,Croydon,Possession of Weapons,561
+78,Croydon,Public Order Offences,2392
+79,Croydon,Robbery,1234
+80,Croydon,Sexual Offences,1104
+81,Croydon,Theft,6233
+82,Croydon,Vehicle Offences,5183
+83,Croydon,Violence Against the Person,10644
+84,Ealing,Arson and Criminal Damage,2347
+85,Ealing,Burglary,3011
+86,Ealing,Drug Offences,2524
+87,Ealing,Miscellaneous Crimes Against Society,439
+88,Ealing,Other Accepted Crime,4063
+89,Ealing,Possession of Weapons,420
+90,Ealing,Public Order Offences,2253
+91,Ealing,Robbery,1371
+92,Ealing,Sexual Offences,762
+93,Ealing,Theft,6319
+94,Ealing,Vehicle Offences,5582
+95,Ealing,Violence Against the Person,9518
+96,Enfield,Arson and Criminal Damage,2229
+97,Enfield,Burglary,3328
+98,Enfield,Drug Offences,1623
+99,Enfield,Miscellaneous Crimes Against Society,520
+100,Enfield,Other Accepted Crime,3485
+101,Enfield,Possession of Weapons,431
+102,Enfield,Public Order Offences,1759
+103,Enfield,Robbery,1815
+104,Enfield,Sexual Offences,685
+105,Enfield,Theft,5532
+106,Enfield,Vehicle Offences,6239
+107,Enfield,Violence Against the Person,8747
+108,Greenwich,Arson and Criminal Damage,2360
+109,Greenwich,Burglary,2697
+110,Greenwich,Drug Offences,1768
+111,Greenwich,Miscellaneous Crimes Against Society,531
+112,Greenwich,Other Accepted Crime,3318
+113,Greenwich,Possession of Weapons,412
+114,Greenwich,Public Order Offences,1997
+115,Greenwich,Robbery,907
+116,Greenwich,Sexual Offences,845
+117,Greenwich,Theft,5929
+118,Greenwich,Vehicle Offences,4747
+119,Greenwich,Violence Against the Person,8945
+120,Hackney,Arson and Criminal Damage,1949
+121,Hackney,Burglary,3528
+122,Hackney,Drug Offences,2411
+123,Hackney,Miscellaneous Crimes Against Society,388
+124,Hackney,Other Accepted Crime,3056
+125,Hackney,Possession of Weapons,533
+126,Hackney,Public Order Offences,2120
+127,Hackney,Robbery,2177
+128,Hackney,Sexual Offences,756
+129,Hackney,Theft,10945
+130,Hackney,Vehicle Offences,3820
+131,Hackney,Violence Against the Person,8473
+132,Hammersmith and Fulham,Arson and Criminal Damage,1448
+133,Hammersmith and Fulham,Burglary,1972
+134,Hammersmith and Fulham,Drug Offences,1560
+135,Hammersmith and Fulham,Miscellaneous Crimes Against Society,374
+136,Hammersmith and Fulham,Other Accepted Crime,2674
+137,Hammersmith and Fulham,Possession of Weapons,259
+138,Hammersmith and Fulham,Public Order Offences,1722
+139,Hammersmith and Fulham,Robbery,941
+140,Hammersmith and Fulham,Sexual Offences,556
+141,Hammersmith and Fulham,Theft,7099
+142,Hammersmith and Fulham,Vehicle Offences,3523
+143,Hammersmith and Fulham,Violence Against the Person,6167
+144,Haringey,Arson and Criminal Damage,1955
+145,Haringey,Burglary,2952
+146,Haringey,Drug Offences,2202
+147,Haringey,Miscellaneous Crimes Against Society,472
+148,Haringey,Other Accepted Crime,2996
+149,Haringey,Possession of Weapons,467
+150,Haringey,Public Order Offences,1894
+151,Haringey,Robbery,2739
+152,Haringey,Sexual Offences,765
+153,Haringey,Theft,7412
+154,Haringey,Vehicle Offences,5568
+155,Haringey,Violence Against the Person,8347
+156,Harrow,Arson and Criminal Damage,1160
+157,Harrow,Burglary,2129
+158,Harrow,Drug Offences,1097
+159,Harrow,Miscellaneous Crimes Against Society,228
+160,Harrow,Other Accepted Crime,2151
+161,Harrow,Possession of Weapons,139
+162,Harrow,Public Order Offences,1001
+163,Harrow,Robbery,664
+164,Harrow,Sexual Offences,492
+165,Harrow,Theft,3682
+166,Harrow,Vehicle Offences,2913
+167,Harrow,Violence Against the Person,5104
+168,Havering,Arson and Criminal Damage,1437
+169,Havering,Burglary,1994
+170,Havering,Drug Offences,1013
+171,Havering,Miscellaneous Crimes Against Society,335
+172,Havering,Other Accepted Crime,2672
+173,Havering,Possession of Weapons,262
+174,Havering,Public Order Offences,1236
+175,Havering,Robbery,767
+176,Havering,Sexual Offences,517
+177,Havering,Theft,4216
+178,Havering,Vehicle Offences,3020
+179,Havering,Violence Against the Person,5989
+180,Hillingdon,Arson and Criminal Damage,2386
+181,Hillingdon,Burglary,2871
+182,Hillingdon,Drug Offences,1895
+183,Hillingdon,Miscellaneous Crimes Against Society,388
+184,Hillingdon,Other Accepted Crime,3410
+185,Hillingdon,Possession of Weapons,274
+186,Hillingdon,Public Order Offences,1769
+187,Hillingdon,Robbery,873
+188,Hillingdon,Sexual Offences,530
+189,Hillingdon,Theft,5805
+190,Hillingdon,Vehicle Offences,4677
+191,Hillingdon,Violence Against the Person,8155
+192,Hounslow,Arson and Criminal Damage,2052
+193,Hounslow,Burglary,2323
+194,Hounslow,Drug Offences,2398
+195,Hounslow,Miscellaneous Crimes Against Society,500
+196,Hounslow,Other Accepted Crime,3347
+197,Hounslow,Possession of Weapons,363
+198,Hounslow,Public Order Offences,1893
+199,Hounslow,Robbery,815
+200,Hounslow,Sexual Offences,576
+201,Hounslow,Theft,5780
+202,Hounslow,Vehicle Offences,4352
+203,Hounslow,Violence Against the Person,8354
+204,Islington,Arson and Criminal Damage,1623
+205,Islington,Burglary,2800
+206,Islington,Drug Offences,1865
+207,Islington,Miscellaneous Crimes Against Society,445
+208,Islington,Other Accepted Crime,2656
+209,Islington,Possession of Weapons,418
+210,Islington,Public Order Offences,1984
+211,Islington,Robbery,1665
+212,Islington,Sexual Offences,673
+213,Islington,Theft,10992
+214,Islington,Vehicle Offences,3234
+215,Islington,Violence Against the Person,7086
+216,Kensington and Chelsea,Arson and Criminal Damage,1118
+217,Kensington and Chelsea,Burglary,2222
+218,Kensington and Chelsea,Drug Offences,1808
+219,Kensington and Chelsea,Miscellaneous Crimes Against Society,205
+220,Kensington and Chelsea,Other Accepted Crime,1602
+221,Kensington and Chelsea,Possession of Weapons,221
+222,Kensington and Chelsea,Public Order Offences,1357
+223,Kensington and Chelsea,Robbery,1038
+224,Kensington and Chelsea,Sexual Offences,405
+225,Kensington and Chelsea,Theft,9817
+226,Kensington and Chelsea,Vehicle Offences,3959
+227,Kensington and Chelsea,Violence Against the Person,4661
+228,Kingston upon Thames,Arson and Criminal Damage,993
+229,Kingston upon Thames,Burglary,1060
+230,Kingston upon Thames,Drug Offences,1233
+231,Kingston upon Thames,Miscellaneous Crimes Against Society,209
+232,Kingston upon Thames,Other Accepted Crime,1472
+233,Kingston upon Thames,Possession of Weapons,138
+234,Kingston upon Thames,Public Order Offences,982
+235,Kingston upon Thames,Robbery,393
+236,Kingston upon Thames,Sexual Offences,394
+237,Kingston upon Thames,Theft,3657
+238,Kingston upon Thames,Vehicle Offences,1518
+239,Kingston upon Thames,Violence Against the Person,3835
+240,Lambeth,Arson and Criminal Damage,2272
+241,Lambeth,Burglary,3334
+242,Lambeth,Drug Offences,3400
+243,Lambeth,Miscellaneous Crimes Against Society,615
+244,Lambeth,Other Accepted Crime,3334
+245,Lambeth,Possession of Weapons,680
+246,Lambeth,Public Order Offences,2455
+247,Lambeth,Robbery,1457
+248,Lambeth,Sexual Offences,1139
+249,Lambeth,Theft,10600
+250,Lambeth,Vehicle Offences,3718
+251,Lambeth,Violence Against the Person,10222
+252,Lewisham,Arson and Criminal Damage,2308
+253,Lewisham,Burglary,2771
+254,Lewisham,Drug Offences,2243
+255,Lewisham,Miscellaneous Crimes Against Society,476
+256,Lewisham,Other Accepted Crime,3446
+257,Lewisham,Possession of Weapons,525
+258,Lewisham,Public Order Offences,2035
+259,Lewisham,Robbery,1316
+260,Lewisham,Sexual Offences,717
+261,Lewisham,Theft,5757
+262,Lewisham,Vehicle Offences,4319
+263,Lewisham,Violence Against the Person,9323
+264,Merton,Arson and Criminal Damage,1200
+265,Merton,Burglary,1722
+266,Merton,Drug Offences,959
+267,Merton,Miscellaneous Crimes Against Society,248
+268,Merton,Other Accepted Crime,1762
+269,Merton,Possession of Weapons,162
+270,Merton,Public Order Offences,1017
+271,Merton,Robbery,452
+272,Merton,Sexual Offences,395
+273,Merton,Theft,3254
+274,Merton,Vehicle Offences,2100
+275,Merton,Violence Against the Person,4379
+276,Newham,Arson and Criminal Damage,2336
+277,Newham,Burglary,2439
+278,Newham,Drug Offences,4833
+279,Newham,Miscellaneous Crimes Against Society,593
+280,Newham,Other Accepted Crime,3937
+281,Newham,Possession of Weapons,624
+282,Newham,Public Order Offences,2288
+283,Newham,Robbery,2063
+284,Newham,Sexual Offences,985
+285,Newham,Theft,9862
+286,Newham,Vehicle Offences,4573
+287,Newham,Violence Against the Person,10170
+288,Redbridge,Arson and Criminal Damage,1604
+289,Redbridge,Burglary,2248
+290,Redbridge,Drug Offences,1818
+291,Redbridge,Miscellaneous Crimes Against Society,334
+292,Redbridge,Other Accepted Crime,2823
+293,Redbridge,Possession of Weapons,260
+294,Redbridge,Public Order Offences,1325
+295,Redbridge,Robbery,1041
+296,Redbridge,Sexual Offences,505
+297,Redbridge,Theft,5021
+298,Redbridge,Vehicle Offences,4930
+299,Redbridge,Violence Against the Person,6883
+300,Richmond upon Thames,Arson and Criminal Damage,1050
+301,Richmond upon Thames,Burglary,1609
+302,Richmond upon Thames,Drug Offences,454
+303,Richmond upon Thames,Miscellaneous Crimes Against Society,146
+304,Richmond upon Thames,Other Accepted Crime,1413
+305,Richmond upon Thames,Possession of Weapons,86
+306,Richmond upon Thames,Public Order Offences,923
+307,Richmond upon Thames,Robbery,471
+308,Richmond upon Thames,Sexual Offences,302
+309,Richmond upon Thames,Theft,3087
+310,Richmond upon Thames,Vehicle Offences,2395
+311,Richmond upon Thames,Violence Against the Person,3191
+312,Southwark,Arson and Criminal Damage,2275
+313,Southwark,Burglary,3367
+314,Southwark,Drug Offences,3596
+315,Southwark,Miscellaneous Crimes Against Society,501
+316,Southwark,Other Accepted Crime,3195
+317,Southwark,Possession of Weapons,600
+318,Southwark,Public Order Offences,2254
+319,Southwark,Robbery,2594
+320,Southwark,Sexual Offences,850
+321,Southwark,Theft,13110
+322,Southwark,Vehicle Offences,4058
+323,Southwark,Violence Against the Person,9848
+324,Sutton,Arson and Criminal Damage,1205
+325,Sutton,Burglary,1406
+326,Sutton,Drug Offences,743
+327,Sutton,Miscellaneous Crimes Against Society,211
+328,Sutton,Other Accepted Crime,1870
+329,Sutton,Possession of Weapons,152
+330,Sutton,Public Order Offences,1013
+331,Sutton,Robbery,319
+332,Sutton,Sexual Offences,298
+333,Sutton,Theft,2796
+334,Sutton,Vehicle Offences,2228
+335,Sutton,Violence Against the Person,4547
+336,Tower Hamlets,Arson and Criminal Damage,2217
+337,Tower Hamlets,Burglary,3369
+338,Tower Hamlets,Drug Offences,3765
+339,Tower Hamlets,Miscellaneous Crimes Against Society,540
+340,Tower Hamlets,Other Accepted Crime,3703
+341,Tower Hamlets,Possession of Weapons,519
+342,Tower Hamlets,Public Order Offences,2567
+343,Tower Hamlets,Robbery,1540
+344,Tower Hamlets,Sexual Offences,844
+345,Tower Hamlets,Theft,9693
+346,Tower Hamlets,Vehicle Offences,4293
+347,Tower Hamlets,Violence Against the Person,9462
+348,Waltham Forest,Arson and Criminal Damage,1793
+349,Waltham Forest,Burglary,2053
+350,Waltham Forest,Drug Offences,2401
+351,Waltham Forest,Miscellaneous Crimes Against Society,356
+352,Waltham Forest,Other Accepted Crime,2832
+353,Waltham Forest,Possession of Weapons,405
+354,Waltham Forest,Public Order Offences,1353
+355,Waltham Forest,Robbery,885
+356,Waltham Forest,Sexual Offences,522
+357,Waltham Forest,Theft,5287
+358,Waltham Forest,Vehicle Offences,4406
+359,Waltham Forest,Violence Against the Person,6777
+360,Wandsworth,Arson and Criminal Damage,1757
+361,Wandsworth,Burglary,2861
+362,Wandsworth,Drug Offences,1318
+363,Wandsworth,Miscellaneous Crimes Against Society,383
+364,Wandsworth,Other Accepted Crime,2708
+365,Wandsworth,Possession of Weapons,278
+366,Wandsworth,Public Order Offences,1771
+367,Wandsworth,Robbery,947
+368,Wandsworth,Sexual Offences,748
+369,Wandsworth,Theft,6646
+370,Wandsworth,Vehicle Offences,4256
+371,Wandsworth,Violence Against the Person,7263
+372,Westminster,Arson and Criminal Damage,2590
+373,Westminster,Burglary,4891
+374,Westminster,Drug Offences,4332
+375,Westminster,Miscellaneous Crimes Against Society,550
+376,Westminster,Other Accepted Crime,3809
+377,Westminster,Possession of Weapons,688
+378,Westminster,Public Order Offences,3840
+379,Westminster,Robbery,4645
+380,Westminster,Sexual Offences,1240
+381,Westminster,Theft,47320
+382,Westminster,Vehicle Offences,4954
+383,Westminster,Violence Against the Person,12211
